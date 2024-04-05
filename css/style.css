@@ -1,0 +1,22 @@
+.kapitel {
+  font-size: 40px;
+  text-align: left;
+  padding-left: 21px;
+  color: black;
+  font: bold;
+}
+
+.container {
+  width: 100%;
+  padding-left: 21px;
+  padding-right: 21px;
+}
+
+.vorteile {
+  border: 1px solid #34495e;
+  background-color: #34495e;
+  font-size: 20px;
+  color: white;
+  border-radius: 20px;
+  padding: 21px 100px;
+}
